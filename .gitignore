@@ -1,0 +1,9 @@
+# Ignorar configuración de PyCharm
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Conda envs locales
+env/
+
